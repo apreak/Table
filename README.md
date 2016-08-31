@@ -15,7 +15,7 @@ A Tool to Format Cout to Pretty Tables
     cout << "王" << '\t' << 1 << '\t' << "" << endl;
     cout << "六 六 | 六" << '\t' << 3.1415926 << '\t' << "123" << endl;
     
-![Image](https://github.com/apreak/Table/blob/master/pic1.bmp)
+![Image](https://github.com/apreak/Table/blob/master/pic1.png)
 
     untidy? use class 'Table' provided, you can print cout as a pretty tables. 
     Here are some sample:
