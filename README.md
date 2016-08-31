@@ -1,7 +1,7 @@
 # Table
 A Tool to Format Cout to Pretty Tables
 
-    If you want to cout student's scores:
+    If you want to print student's scores:
     name	            score    others
     章三	            100
     李四先生名字很长	100000
@@ -17,8 +17,8 @@ A Tool to Format Cout to Pretty Tables
     
 ![Image](https://github.com/apreak/Table/blob/master/pic1.png)
 
-    untidy? use class 'Table' provided, you can print cout as a pretty tables. 
-    Here are some sample:
+    Untidy? Try class 'Table' provided, you can print out pretty tables. 
+    Here are some samples:
 
     sample code:
     Table table(mysql_property);
