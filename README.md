@@ -15,9 +15,11 @@ A Tool to Format Cout to Pretty Tables
     cout << "王" << '\t' << 1 << '\t' << "" << endl;
     cout << "六 六 | 六" << '\t' << 3.1415926 << '\t' << "123" << endl;
     
-![Image](https://github.com/apreak/Table/blob/master/pic1.png)
+    ![Image](https://github.com/apreak/Table/blob/master/pic1.png)
 
-    untidy? use class 'Table' provided, you can print cout as a pretty. Here are some sample:
+    untidy? use class 'Table' provided, you can print cout as a pretty tables. 
+    Here are some sample:
+
     sample code:
     Table table(mysql_property);
     table << "姓名"  << "成绩" << "其他" << endl;
@@ -27,5 +29,5 @@ A Tool to Format Cout to Pretty Tables
     table << "六 六 | 六" << std::right << 3.1415926 << std::left << "123" << endl;
     cout << table;
 
-![Image](https://github.com/apreak/Table/blob/master/pic1.png)
-![Image](https://github.com/apreak/Table/blob/master/pic1.png)
+    ![Image](https://github.com/apreak/Table/blob/master/pic2.png)
+    ![Image](https://github.com/apreak/Table/blob/master/pic3.png)
